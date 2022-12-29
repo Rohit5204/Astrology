@@ -2946,6 +2946,12 @@ textarea.form-control {
     .slick-arrow.slick-prev, .as_banner_slider .slick-arrow.slick-prev, .as_banner_slider .slick-arrow.slick-next {
         display: none !important;
     }
+    .as_logo img {
+        width: 17px;
+    }
+    .as_info_detail{
+        display: none;
+    }
     .as_banner_wrapper {
         padding: 80px 40px;
         overflow: hidden;
